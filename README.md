@@ -6,7 +6,7 @@ Une application Streamlit qui utilise l’OCR et le Machine Learning pour lire u
 ## 🚀 Lancer l'application localement
 ```bash
 pip install -r requirements.txt
-streamlit run scan_sante_app_with_pdf.py
+streamlit run scan_sante_cloud.py
 ```
 
 ## 📄 Fonctionnalités
